@@ -1,0 +1,24 @@
+{
+  "name": "LIQUEUR & SPIRITS ATLAS",
+  "short_name": "Liqueur Atlas",
+  "description": "Интерактивная энциклопедия 19 напитков и 99 коктейлей с 3D-бутылками, ценами и домашним баром.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#1A1816",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "./assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
